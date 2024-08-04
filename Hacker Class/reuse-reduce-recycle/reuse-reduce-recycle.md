@@ -49,5 +49,5 @@ Source code melakukan 2 hal:
 
 AES-CTR di source code menggunakan nonce yang sama, dan karena AES-CTR adalah block cipher maka antara 2 plaintext berbeda akan memiliki persamaan dalam hasil enkripsi jika terdapat karakter yang sama. Maka, dapat dilakukan bruteforce dengan mencoba seluruh karakter printable dan mengecek apakah hasil enkripsi memliki persamaan dengan prefix hasil enkripsi flag (input akan di padding menjadi sebesar 16 block, tambahan padding tidak perlu di cek kesamaannya).
 
-Solver: [reuse-reduce.recyle.py]()
+Solver: [reuse-reduce.recyle.py](https://github.com/FieryBanana101/Compfest-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/reuse-reduce-recycle/reuse-reduce-recycle.py)
 >Flag: COMPFEST16{IV_Reuse_Is_Dangerous_f48375ef51}
