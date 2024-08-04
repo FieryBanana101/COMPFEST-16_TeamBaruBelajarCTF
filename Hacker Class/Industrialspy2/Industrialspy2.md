@@ -1,4 +1,5 @@
 # [500 pts] Industrialspy2
+### Category: Forensic
 >**Deskripsi:**
 > 
 >After we intercepted Lyubov's last attempt at stealing documents, she disabled our RAM capturer. Fortunately, we still have other loggers active. Is she still trying?
