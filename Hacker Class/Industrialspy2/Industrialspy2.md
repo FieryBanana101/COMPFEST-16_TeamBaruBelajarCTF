@@ -22,7 +22,7 @@ HID Data: 0000120000000000
 
 HID atau Human Interface Data ini kemungkinan besar berasal dari input keyboard yang disimpan dalam hex sesuai USB codes. Setelah mencari di internet, ditemukan script decoder yang ditulis yang bisa mengubah usb codes dari leftover data menjadi karakter ascii: [script by natesinger](https://github.com/natesinger/KeyBD-PCAP-Decoder/blob/main/decode.py).
 
-Karena kita butuh meng-decode HID data, maka perlu dilakukan beberapa modifikasi pada script tersebut sehingga akhirnya didapatkan [script solver](https://github.com/FieryBanana101/COMPFEST 16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Industrialspy2/Industrialspy2.py) yang bisa menemukan flag.
+Karena kita butuh meng-decode HID data, maka perlu dilakukan beberapa modifikasi pada script tersebut sehingga akhirnya didapatkan [script solver](https://github.com/FieryBanana101/COMPFEST16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Industrialspy2/Industrialspy2.py) yang bisa menemukan flag.
 
 Terakhir, run script tersebut dengan command:
 >./Industrialspy2.py ./traffic.pcapng
