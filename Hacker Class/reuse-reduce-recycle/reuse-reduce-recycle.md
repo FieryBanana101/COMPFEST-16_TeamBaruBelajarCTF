@@ -1,11 +1,14 @@
 # [500 pts] reuse reduce recycle
 ### Category: Cryptoghraphy
-**Deskripsi:**  
+>**Deskripsi:**
+>
 >I changed the mode to CTR, nothing can go wrong right?  
 >
 >Author: fahrul  
 >
 >nc challenges.ctf.compfest.id 20016
+
+______________________________________________________________________________________________________________________________
 
 Diberikan koneksi ke host challenges.ctf.compfest.id dengan port 20016, diberikan juga attachment berupa source code yang berjalan di koneksi tersebut
 >chall.py:
