@@ -1,8 +1,11 @@
 # [500 pts] Industrialspy2
-**Deskripsi:**
+>**Deskripsi:**
+> 
 >After we intercepted Lyubov's last attempt at stealing documents, she disabled our RAM capturer. Fortunately, we still have other loggers active. Is she still trying?
 >
 >Author: k3ng
+
+____________________________________________________________________________________________________________________________________
 
 Diberikan sebuah file packet capture _traffic.pcapng_, setelah dibuka menggunakan tshark dengan command:
 >tshark -r traffic.pcapng -V
