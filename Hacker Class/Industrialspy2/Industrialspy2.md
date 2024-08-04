@@ -31,5 +31,5 @@ Terakhir, run script tersebut dengan command:
 
 Dan akan didapatkan flag.
 
->Flag: COMPFEST16{L0Ve_m3_s0me_USB_f0rens1CS_fd746ec8b3}
+>Flag: **COMPFEST16{L0Ve_m3_s0me_USB_f0rens1CS_fd746ec8b3}**
 
