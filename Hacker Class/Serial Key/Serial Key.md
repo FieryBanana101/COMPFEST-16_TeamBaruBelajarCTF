@@ -9,6 +9,8 @@
 >nc challenges.ctf.compfest.id 20012
 ____________________________________________________________________________
 
+### **Solusi:**
+
 Awalnya saya mencoba connect menggunakan netcat pada host dan port yang diberikan,
 > Serial 1 ==>
 
