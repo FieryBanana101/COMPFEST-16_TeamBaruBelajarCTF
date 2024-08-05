@@ -2,7 +2,7 @@ from pwn import *
 
 key = ['_' for i in range(24)]
 for i in range(4,24,5):
-    key[i] = chr(45)
+    key[i] = '-'
 
 key[10] = 'C'
 key[11] = 'F'
