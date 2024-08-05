@@ -10,6 +10,8 @@
 
 ______________________________________________________________________________________________________________________________
 
+### **Solusi:**
+
 Diberikan koneksi ke host challenges.ctf.compfest.id dengan port 20016, diberikan juga attachment berupa source code yang berjalan di koneksi tersebut
 >chall.py:
 ```python
