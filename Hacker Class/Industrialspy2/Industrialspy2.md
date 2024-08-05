@@ -8,6 +8,7 @@
 
 ____________________________________________________________________________________________________________________________________
 
+### **Solusi:**
 Diberikan sebuah file packet capture _traffic.pcapng_, setelah dibuka menggunakan tshark dengan command:
 >tshark -r traffic.pcapng -V
 
