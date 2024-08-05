@@ -48,9 +48,10 @@ while True:
     elif choice == 3:
         break
 ```
-Source code melakukan 2 hal:  
+Source code melakukan 3 hal sesuai angka yang dipilih:  
 1. Memberi hasil enkripsi AES-CTR dari input user dalam bentuk hex
-2. Mengberi hasil enkripsi flag challenge
+2. Memberi hasil enkripsi flag challenge
+3. Exit program
 
 AES-CTR di source code menggunakan nonce yang sama, dan karena AES-CTR adalah block cipher maka antara 2 plaintext berbeda akan memiliki persamaan dalam hasil enkripsi jika terdapat karakter yang sama. Maka, dapat dilakukan bruteforce dengan mencoba seluruh karakter printable dan mengecek apakah hasil enkripsi memliki persamaan dengan prefix hasil enkripsi flag (input akan di padding menjadi sebesar 16 block, tambahan padding tidak perlu di cek kesamaannya).
 
