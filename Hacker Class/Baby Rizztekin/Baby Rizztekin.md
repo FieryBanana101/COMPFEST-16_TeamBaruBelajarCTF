@@ -213,14 +213,14 @@ Sehingga kesimpulannya, agar flag ditampilkan kita harus login dengan akun yang 
 
 Maka akan kita masukkan payload injection ke password, username dapat diisi string apa saja selain string kosong. Payload yang sesuai yaitu:
 ```sql
-' OR '1'='1' AND is_admin = '1
+' OR '1' AND is_admin = '1
 ```
 
 > **Note:** Username tidak boleh string kosong karena ada pengecekan pada process_login(), jika username atau password kosong maka akan otomatis login dengan user 'guest'.
 
 Jika kita masukkan payload ke query di fungsi process_login(), maka query akan menjadi:
 ```sql
-SELECT id FROM users WHERE username = '' AND password = '' OR '1'='1' AND is_admin = '1'
+SELECT id FROM users WHERE username = '(random_string)' AND password = '' OR '1' AND is_admin = '1'
 ```
 
 Query tersebut dapat disederhanakan menjadi hanya:
