@@ -228,7 +228,7 @@ Query tersebut dapat disederhanakan menjadi hanya:
 SELECT id FROM users WHERE is_admin = '1'
 ```
 
-Sehingga setelahnya, web akan menampilkan flag:  
-(gambar flag)
+Sehingga setelahnya, didapat halaman web yang menampilkan flag:  
+![Flag](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/asset/Screenshot%202024-08-15%20074855.png)
 
-> Flag: **COMPFEST16{}**
+> Flag: **COMPFEST16{aLw4Ys_uS3_pr3P4reD_st4tEm3NTS_e3ae331a90}**
