@@ -375,7 +375,7 @@ Setelah x ditemukan, reverse list x untuk mendapatkan kode ascii dari password. 
 > '~' adalah unary operator invert  
 > Informasi lebih lanjut dapat dicari melalui search engine
 
-Solver script: [PyAsm.py]()
+Solver script: [PyAsm.py](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/PyAsm/PyAsm.py)
 
 > Flag: **COMPFEST16{pYth0n_4sm_1s_3z_r1gtH?_6b6241e4c8}**
 
