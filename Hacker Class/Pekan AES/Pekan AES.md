@@ -89,8 +89,10 @@ Sehingga hasil ciphertext yang dapat digunakan untuk mengambil flag pada opsi 2 
 ```python
 ciphertext = encrypt("a" * 7 + "COMPFEST1") + encrypt("6" + "a" * 15) + encrypt(random_pad_character * 16)
 ```
-**Note:** hasil dari encrypt() diambil setengah saja, karena setengah selanjutnya berasal dari padding di plaintext.
+**Note 1:** hasil dari encrypt() diambil setengah saja, karena setengah selanjutnya berasal dari padding di plaintext.
 
-Solver script: [Pekan AES.py]()
+**Note 2:** random_pad_character harus karakter non-printable (misal \x01) agar bisa di unpad dengan benar pada decrypt().
 
-> Flag: ****
+Solver script: [Pekan AES.py](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Pekan%20AES/Pekan%20AES.py)
+
+> Flag: **COMPFEST16{ECB_kurang_bagus_untuk_dipake_bro_gak_jaman_61abdb8843}**
