@@ -6,6 +6,8 @@
 >
 >Author: k3ng
 
+**Attachment:** [traffic.pcapng](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Industrialspy2/traffic.pcapng)
+
 ____________________________________________________________________________________________________________________________________
 
 ### **Solusi:**
