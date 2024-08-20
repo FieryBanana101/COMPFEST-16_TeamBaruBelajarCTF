@@ -1,13 +1,15 @@
 # [500 pts] Serial Key
 ### Category: Reverse Engineering
 
-***Deskripsi***
+**Deskripsi**
 >Classic reverse, classic serial key
 >
 >Author: Zanark
 >
 >nc challenges.ctf.compfest.id 20012
 ____________________________________________________________________________
+
+**Attachment:** [soal](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Serial%20Key/soal)
 
 ### **Solusi:**
 
