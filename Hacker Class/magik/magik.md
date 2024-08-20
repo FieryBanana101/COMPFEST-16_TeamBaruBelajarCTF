@@ -49,10 +49,12 @@ Loose comparison PHP hanya mengecek value dan tidak mengecek type. Sehingga:
 >(== "0e462097431906509019562988736854") berubah menjadi (== 0)  
 >(== "0e731198106197620485820904131008") berubah menjadi (== 0)
 
-Maka untuk memenuhi kondisi itu, kita hanya perlu mengisi parameter metode GET dengan string yang bukan merupakan "240610708" dan bukan "3069655" serta nilai hash MD5 nya berawalan "0".
+Maka untuk memenuhi kondisi itu, kita hanya perlu mengisi parameter secret metode GET dengan string yang bukan merupakan "240610708" dan bukan "3069655" serta nilai hash MD5 nya berawalan "0".
 Setelah mencari di internet, ditemukan list [magic hash](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md) yang berisi nilai yang kita butuhkan, yaitu "QNKCDZO".
 
 Dengan menambahkan string "QNKCDZO" pada parameter secret metode GET, akan didapatkan flag.
->http://challenges.ctf.compfest.id:20002/?secret=QNKCDZO
+```
+http://challenges.ctf.compfest.id:20002/?secret=QNKCDZO
+```
 
 >Flag = **COMPFEST16{1_h4T3_pHp_lmA000000_8da795d09f}**
