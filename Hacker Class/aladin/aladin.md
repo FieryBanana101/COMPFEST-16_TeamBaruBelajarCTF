@@ -54,6 +54,8 @@ int main()
 }
 ```
 
+**Binary File:** [chall](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/aladin/chall)
+
 ### Solusi:
 
 Diberikan source code dan binary dari source code yang sudah di compile, awalnya saya cek keamanan dari file binary tersebut:
