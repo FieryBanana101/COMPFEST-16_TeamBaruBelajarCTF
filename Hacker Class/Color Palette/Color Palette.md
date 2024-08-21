@@ -8,9 +8,9 @@
 >   
 > Author: kilometer
 
-**[coming_soon_colorfest.png]():**
+**[coming_soon_colorfest.png](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Color%20Palette/coming_soon_colorfest.png):**
 
-![color.png]()
+![color.png](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Hacker%20Class/Color%20Palette/coming_soon_colorfest.png)
 
 ### Solusi:
 
