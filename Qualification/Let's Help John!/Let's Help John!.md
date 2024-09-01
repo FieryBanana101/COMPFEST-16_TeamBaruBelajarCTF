@@ -10,3 +10,6 @@ Author: Ultramy
 http://challenges.ctf.compfest.id:9016
 ```
 ### Solusi:
+
+
+> Flag: **COMPFEST16{nOW_h3Lp_H1m_1n_john-O-jail-misc_8506972ce3}**
