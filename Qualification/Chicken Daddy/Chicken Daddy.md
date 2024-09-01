@@ -7,6 +7,6 @@ In the heart of Chicken Daddy, where clucking recipes and savory secrets abound,
 
 Author: PapaChicken
 ```
-**Attachment: [chicken_daddy.zip]()**
+**Attachment: [chicken_daddy.zip](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Qualification/Chicken%20Daddy/chicken-daddy.zip)**
 
 ### Unsolved
