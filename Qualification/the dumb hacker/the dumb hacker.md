@@ -7,6 +7,6 @@ Someone broke into my house and used my computer! Whoever they are, I don’t th
 
 Author: ultradiyow
 ```
-**Attachment: [the_dumb_hacker.zip]()**
+**Attachment: [the_dumb_hacker.zip](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Qualification/the%20dumb%20hacker/the_dumb_hacker.zip)**
 
 ### Unsolved
