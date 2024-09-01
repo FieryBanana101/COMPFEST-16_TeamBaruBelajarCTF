@@ -7,6 +7,6 @@ My friend tipsen and I are planning to take Data Structure & Algorithm (DSA) on 
 
 Author: PapaChicken
 ```
-**Attachment: [SIAK-OG.zip]()**
+**Attachment: [SIAK-OG.zip](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Qualification/SIAK-OG/SIAK-OG.zip)**
 
 ### Unsolved
