@@ -11,6 +11,9 @@ If you have figured it out, submit your report to nc challenges.ctf.compfest.id 
 
 Author: k3ng
 ```
+
+**Attachment: [capture.pcapng](https://github.com/FieryBanana101/COMPFEST-16_TeamBaruBelajarCTF/blob/main/Qualification/Industrialspy%203/capture.pcapng)**
+
 ### Solusi:
 
 Dengan melakukan netcat pada host dan port yang diberikan deskripsi, kita diberikan pertanyaan:
