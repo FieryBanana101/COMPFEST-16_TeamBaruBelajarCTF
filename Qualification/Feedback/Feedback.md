@@ -1,4 +1,4 @@
-# 2.) Feedback
+# Feedback
 ### Category: Miscellaneous
 
 **Deskripsi:**
